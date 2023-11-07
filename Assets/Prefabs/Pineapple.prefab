@@ -165,3 +165,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38c2c414eb6f54104a0bd37ab205a387, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  PineapplesCount: {fileID: 0}
+  collectionSoundEffect: {fileID: 0}
