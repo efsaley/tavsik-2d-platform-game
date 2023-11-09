@@ -32,15 +32,21 @@ Embark on a delightful adventure in the whimsical world of Tavsik, a charming 2D
 
 5. **Enjoy the Journey:** Immerse yourself in the adorable world of Tavsik and savor the joy of overcoming each fruity hurdle.
 
+## Screenshots
+  <p>
+     <img alt="tavsik" src="https://github.com/efsaley/tavsik-2d-platform-game/blob/main/Screenshots/0.png" width="45%">
+     <img alt="tavsik" src="https://github.com/efsaley/tavsik-2d-platform-game/blob/main/Screenshots/1.png" width="45%">
+     <img alt="tavsik" src="https://github.com/efsaley/tavsik-2d-platform-game/blob/main/Screenshots/2.png" width="45%">
+     <img alt="tavsik" src="https://github.com/efsaley/tavsik-2d-platform-game/blob/main/Screenshots/3.png" width="45%">
+     <img alt="tavsik" src="https://github.com/efsaley/tavsik-2d-platform-game/blob/main/Screenshots/4.png" width="45%">
+     <img alt="tavsik" src="https://github.com/efsaley/tavsik-2d-platform-game/blob/main/Screenshots/5.png" width="45%">
+     <img alt="tavsik" src="https://github.com/efsaley/tavsik-2d-platform-game/blob/main/Screenshots/6.png" width="45%">
+     <img alt="tavsik" src="https://github.com/efsaley/tavsik-2d-platform-game/blob/main/Screenshots/7.png" width="45%">
+  </p>
+  
 ## GamePlay 
 https://github.com/efsaley/tavsik-2d-platform-game/assets/86037029/9c40a2f7-e01d-4792-a186-3177281d46be
 
-## Screenshots
 
-  <p>
-  <img alt="tavsik" src="https://github.com/efsaley-/blob/main/ScreenShots/iname.PNG" width="30%">
-   <img alt="tavsik" src="https://github.com/efsaley/-/blob/main/ScreenShots/iname.PNG" width="30%">
- <img alt="tavsik" src="https://github.com/efsaley/-/blob/main/ScreenShots/iname.PNG" width="30%">
-  </p>
 
 
